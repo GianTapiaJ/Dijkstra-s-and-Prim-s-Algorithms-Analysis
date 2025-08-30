@@ -9,20 +9,5 @@ Dijkstra:
 Prim:
 <img width="607" height="636" alt="output_dijkstra_algorithm" src="https://github.com/user-attachments/assets/713298f9-0a25-44de-b693-4fc6caa69a87" />
 
-Comparison:
-======================================================================
-URBAN NETWORK ALGORITHM PERFORMANCE ANALYSIS
-======================================================================
-This analysis compares the performance characteristics of
-Dijkstra's shortest path algorithm and Prim's minimum
-spanning tree algorithm on urban transportation networks.
-======================================================================
-Initiating algorithm performance analysis...
-Completed analysis for graph size: 3715 nodes
-Completed analysis for graph size: 7430 nodes
-Completed analysis for graph size: 11145 nodes
-Completed analysis for graph size: 14860 nodes
-Completed analysis for graph size: 18575 nodes
-
 Graph:
 <img width="1184" height="690" alt="output_dijkstra_prim_graphics" src="https://github.com/user-attachments/assets/4e5325df-1618-4f37-9396-0f13c16b283b" />
