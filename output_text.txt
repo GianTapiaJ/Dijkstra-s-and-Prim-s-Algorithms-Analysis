@@ -1,0 +1,7 @@
+Algorithm Performance Benchmarking Results
+node_count	dijkstra_time	prim_time	performance_ratio
+0	3715	0.3311s	0.1202s	2.76x
+1	7430	0.2494s	0.1088s	2.29x
+2	11145	0.3257s	0.1125s	2.90x
+3	14860	0.2914s	0.1110s	2.63x
+4	18575	0.2896s	0.1105s	2.62x
